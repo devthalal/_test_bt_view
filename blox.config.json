@@ -1,0 +1,1 @@
+{"name":"bt_view","type":"ui-elements","source":{"https":"https://github.com/devthalal/_test_bt_view","ssh":"git@github.com:devthalal/_test_bt_view.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
